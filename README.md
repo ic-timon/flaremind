@@ -212,7 +212,7 @@ bash test_integration.sh
 ### 集成测试
 
 项目包含针对以下网站的集成测试：
-
+！！！仅作学习使用！！！不允许做出侵犯他司权益等事项！！！
 - **百度新闻** (`https://news.baidu.com/`)
 - **Bilibili 热门** (`https://www.bilibili.com/v/popular`)
 - **抖音** (`https://www.douyin.com/`)
