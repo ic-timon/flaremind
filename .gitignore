@@ -1,0 +1,56 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+firecrawl2
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Test output
+test_output/
+*.md
+!README.md
+
+# Build artifacts
+flaremind.exe
+flaremind
+flaremind.test
+
+# Temporary files
+csdn_article*
+test_output*
+
+# Crawl output files (user-generated)
+*.md
+!README.md
+
